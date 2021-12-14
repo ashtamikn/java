@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
-public class Ashi1{
-int a() {}
-}
+class Ashi1{
+    int a() {return 0;}
+    }
+ 
 
 
 public class Ashi{
