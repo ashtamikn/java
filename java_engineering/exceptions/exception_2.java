@@ -9,9 +9,10 @@ public class exception_2 {
             for(int i=0;i<n;i++){
                 a[i]=b.nextInt();
             }
-            for(int i=0;i<n;i++){
+            for(int i=0;i<5;i++){
                 System.out.println("value at ith place is "+a[i]);
             }
+            System.out.println("value at ith place is "+a[5]);
         }
             catch (ArrayIndexOutOfBoundsException x){
                 System.out.println(x);

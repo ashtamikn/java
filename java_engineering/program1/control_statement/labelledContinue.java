@@ -7,7 +7,7 @@ public class labelledContinue {
             for (int j = 0; j < 3; j++) {
                 if (i == 1 && j == 1) {
  
-                    continue first;
+                    continue second;
                 }
                 System.out.println(i + " " + j);
             }
